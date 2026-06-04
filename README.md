@@ -1,6 +1,8 @@
+WEBSITE LINK: https://marketingfunnelproject.netlify.app/
+
 # Marketing Funnel & Conversion Performance Analysis
 
-## Project Overview
+## Project Overview  
 
 The purpose of this project is to analyze marketing funnel data to understand how potential customers move through different stages of the customer journey. The analysis helps identify where users drop off, evaluate the performance of marketing channels, and discover opportunities to improve overall conversion rates.
 
